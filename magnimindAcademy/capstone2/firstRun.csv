@@ -1,0 +1,7 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Initial Test with Integer encoding ,Initial Test with One Hot Encoding,Balanced the Data with Integer encoding,Balanced the Data with One Hot Encoding,"Balanced, Normalization introduced with Integer Encoding","Balanced, Normalization introduced with One Hot Encoding",Balanced Normalization Reversed with Integer Encoding,Balanced Normalization Reversed with One Hot Encoding,No Balanced Normalization Introduced With Integer Encoding,No Balanced Normalization Introduced With One Hot Encoding,No Balanced Normalization Switced ( ex. MinMax used instead of scalar),No Balanced Normalization Introduced ( ex. MinMax used instead of scalar)
+0.88,0.88,0.68,0.57,0.78,0.77,0.68,0.57,0.88,0.87,0.88,0.88
+0.87,0.6,0.8,0.62,0.8,0.62,0.8,0.62,0.87,0.6,0.87,0.6
+0.89,0.89,0.67,0.66,0.79,0.69,0.67,0.66,0.89,0.88,0.89,0.89
+0.92,0.93,0.79,0.79,0.79,0.78,0.77,0.78,0.93,0.93,0.92,0.93
+0.87,0.87,0.68,0.7,0.78,0.78,0.68,0.7,0.88,0.87,0.87,0.87
