@@ -1,0 +1,4 @@
+Best Parameters,Training Score,Testing Score,Accuracy,Precision,Recall
+{'logisticRegression__solver': 'newton-cholesky'},0.77,0.75,0.84,0.57,0.25
+{'logisticRegression__solver': 'lbfgs'},0.77,0.75,0.84,0.57,0.25
+"{'logisticRegression__C': 1000, 'logisticRegression__class_weight': None, 'logisticRegression__penalty': 'l2'}",0.77,0.76,0.82,0.46,0.38

@@ -1,0 +1,4 @@
+Best Parameters,Training Score,Testing Score,Accuracy,Precision,Recall
+{'logisticRegression__solver': 'liblinear'},0.83,0.83,0.83,0.67,0.15
+{'logisticRegression__solver': 'lbfgs'},0.83,0.83,0.83,0.67,0.15
+"{'logisticRegression__C': 0.01, 'logisticRegression__class_weight': None, 'logisticRegression__penalty': 'l2'}",0.83,0.83,0.82,1.0,0.0

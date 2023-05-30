@@ -1,0 +1,3 @@
+Best Parameters,Training Score,Testing Score,Accuracy,Precision,Recall
+{},1.0,0.81,0.81,0.43,0.15
+"{'RandomForest__max_depth': None, 'RandomForest__max_features': 18, 'RandomForest__max_samples': 15, 'RandomForest__n_estimators': 100}",0.84,0.84,0.83,1.0,0.07
